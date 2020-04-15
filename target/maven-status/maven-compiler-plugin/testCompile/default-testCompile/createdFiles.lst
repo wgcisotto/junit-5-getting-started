@@ -1,0 +1,8 @@
+com/wgcisotto/patient/intake/ClinicCalendarTest$UpcomingAppointments.class
+com/wgcisotto/patient/intake/notifier/EmailNotifierTestDouble$Message.class
+com/wgcisotto/patient/intake/BMICalculatorTest.class
+com/wgcisotto/patient/intake/notifier/UpcomingAppointmentNotifierTest.class
+com/wgcisotto/patient/intake/notifier/EmailNotifierTestDouble.class
+com/wgcisotto/patient/intake/DateTimeConverterTest$TodayTests.class
+com/wgcisotto/patient/intake/DateTimeConverterTest.class
+com/wgcisotto/patient/intake/ClinicCalendarTest.class

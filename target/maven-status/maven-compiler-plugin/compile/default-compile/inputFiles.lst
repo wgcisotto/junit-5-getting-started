@@ -1,0 +1,9 @@
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/ClinicCalendar.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/BMICalculator.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/notifier/EmailNotifier.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/notifier/UpcomingAppointmentNotifier.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/Doctor.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/PatientAppointment.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/notifier/SmtpMessageSender.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/ClinicMain.java
+/Users/williamcisotto/workspace/pluralsight/junit/getting-started-junit-5/src/main/java/com/wgcisotto/patient/intake/DateTimeConverter.java
